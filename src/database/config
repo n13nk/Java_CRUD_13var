@@ -1,0 +1,7 @@
+CREATE TABLE magazine (
+                         id SERIAL PRIMARY KEY,
+                         department_name VARCHAR(255),
+                         hours_of_operation VARCHAR(255),
+                         product_name VARCHAR(255),
+                         price DECIMAL(10, 2)
+);
