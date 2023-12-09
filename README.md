@@ -13,7 +13,8 @@
 
 Редактирование данных в БД
 
-![image](https://github.com/n13nk/Java_CRUD_13var/assets/113084425/0ed39267-db39-4fd2-984c-cb36a95c547e)
+![image](https://github.com/n13nk/Java_CRUD_13var/assets/113084425/f37bf704-930d-4167-a924-80c45ab0df9c)
+![image](https://github.com/n13nk/Java_CRUD_13var/assets/113084425/8f087965-95e2-4599-b968-5bd5fa131299)
 
 Удаление данных из БД
 
