@@ -18,8 +18,8 @@
 
 Удаление данных из БД
 
-![image](https://github.com/n13nk/Java_CRUD_13var/assets/113084425/c3236e38-430e-4915-9871-613868ab22ee)
+![image](https://github.com/n13nk/Java_CRUD_13var/assets/113084425/eb36b681-49ca-43dd-8763-309c1cc23a87)
 
 Изменения в БД
 
-![image](https://github.com/n13nk/Java_CRUD_13var/assets/113084425/2beb0b7e-acb6-47cd-bd5b-aaffec408eba)
+![image](https://github.com/n13nk/Java_CRUD_13var/assets/113084425/cc81ea0d-c307-4bd3-bb7c-83fdc015ea47)
